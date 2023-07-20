@@ -1,6 +1,6 @@
 # About
 
-**FileConverter** is a .NET 7 ASP.NET REST API for converting files and stori.
+**FileConverter** is a .NET 7 ASP.NET REST API for converting files.
 
 Supported conversions:
  - XML to JSON files
